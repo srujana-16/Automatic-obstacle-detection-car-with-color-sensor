@@ -1,4 +1,4 @@
-# Automatic-obstacle-detection-car-with-color-sensor
+# Automatic obstacle detection car with color sensor
 Electronics Workshop-1 project
 
 In this project, an automatic obstacle detecting car
